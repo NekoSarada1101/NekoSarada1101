@@ -3,4 +3,4 @@
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=Sarada1101&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=NekoSarada1101&theme=nord)
